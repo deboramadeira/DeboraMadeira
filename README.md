@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando e aprimorando JavaScript.
-- 📫 Contate-me pelo email: debora_evelyn06@hotmail.com
+- 📫 Contate-me pelo email: deboramadeira03@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
